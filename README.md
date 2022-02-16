@@ -1,4 +1,4 @@
-# scrapping-de-dados
+# Introdução a scrapy de dados na web
 Nesse repositório estou estudando sobre scrapping de dados de uma página de carros na internet e adquirindo esses dados e tranformando em um Data Frame do Pandas e em seguida exportando.
 
 features:
